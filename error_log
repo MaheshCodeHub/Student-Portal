@@ -1,0 +1,2 @@
+[02-Nov-2023 10:39:48 UTC] PHP Fatal error:  Cannot redeclare Master_ctr::show_divsion_list_save_edit_redirect() in /home2/demosoft/public_html/zgbprojects/demo_practice/application/controllers/Master_ctr.php on line 154
+[02-Nov-2023 10:40:04 UTC] PHP Fatal error:  Cannot redeclare Master_ctr::show_divsion_list_save_edit_redirect() in /home2/demosoft/public_html/zgbprojects/demo_practice/application/controllers/Master_ctr.php on line 154
